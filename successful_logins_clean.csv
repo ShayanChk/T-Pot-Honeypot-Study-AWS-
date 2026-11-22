@@ -1,0 +1,23 @@
+timestamp,src_ip,country,provider,protocol,username,password,ip_reputation
+"Nov 19, 2026 @ 19:03:09.031",103.234.53.13,Hong Kong,CNSERVERS LLC,ssh,root,wrong,bad reputation
+"Nov 19, 2026 @ 12:09:24.247",124.29.194.145,Pakistan,Cyber Internet Services (Pvt) Ltd.,telnet,cht,chtngpon,-
+"Nov 19, 2026 @ 12:08:51.635",124.29.194.145,Pakistan,Cyber Internet Services (Pvt) Ltd.,telnet,admin,CTLSupport12,-
+"Nov 19, 2026 @ 11:53:53.118",95.27.4.35,Russia,PVimpelCom,telnet,root,7ujMko0admin,-
+"Nov 19, 2026 @ 10:43:31.549",176.36.203.100,Ukraine,Lanet Network Ltd,telnet,root,admin,-
+"Nov 19, 2026 @ 09:57:05.724",139.19.117.130,Germany,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.,ssh,admin,(public key),bad reputation
+"Nov 19, 2026 @ 08:05:38.992",153.117.8.117,Pakistan,Cyber Internet Services (Pvt) Ltd.,telnet,admin,123456789,service abuse
+"Nov 19, 2026 @ 07:47:03.506",203.189.196.168,China,Cloud Computing Corporation,ssh,root,nginx,ssh abuse
+"Nov 19, 2026 @ 01:59:22.473",139.19.117.130,Germany,Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.,ssh,admin,(public key),bad reputation
+"Nov 18, 2026 @ 23:49:32.725",199.165.159.137,United States,"The Shadowserver Foundation, Inc.",telnet,Accept-Encoding: gzip,(blank),scan source
+"Nov 18, 2026 @ 22:48:56.679",112.168.171.175,South Korea,Korea Telecom,telnet,b'\xcc\xd1\xd1\xca',b'\xc6\xdd\x8d\x8b\x8f\x8f',bad reputation
+"Nov 18, 2026 @ 22:06:45.188",160.30.109.25,Pakistan,Telenor Pakistan,telnet,cht,chtngpon,bad reputation
+"Nov 18, 2026 @ 22:06:23.230",160.30.109.25,Pakistan,Telenor Pakistan,telnet,cht,chtngpon,bad reputation
+"Nov 18, 2026 @ 18:17:52.128",109.160.32.162,Bulgaria,Banatsync Srl,ssh,krish,krish,ssh abuse
+"Nov 18, 2026 @ 16:29:26.198",195.178.110.228,Bulgaria,Techoff Srv Limited,ssh,root,111111,scan source
+"Nov 18, 2026 @ 10:59:32.819",153.117.13.17,Pakistan,Cyber Internet Services (Pvt) Ltd.,telnet,tech,tech,-
+"Nov 18, 2026 @ 10:55:16.719",39.73.158.49,China,CHINA UNICOM China169 Backbone,telnet,root,jvbzd,service abuse
+"Nov 18, 2026 @ 10:54:52.415",39.73.158.49,China,CHINA UNICOM China169 Backbone,telnet,admin,bayandsl,service abuse
+"Nov 17, 2026 @ 23:33:52.649",194.42.113.67,Ukraine,CHP Shmatko Sergey Leonidovic,telnet,enable,root,-
+"Nov 17, 2026 @ 22:11:25.699",35.206.156.217,Belgium,Google LLC,telnet,"User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",Accept-Encoding: gzip,bad reputation
+"Nov 17, 2026 @ 21:34:50.352",35.206.185.162,Belgium,Google LLC,telnet,"User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",Accept-Encoding: gzip,bad reputation
+"Nov 17, 2026 @ 19:55:07.320",59.127.93.232,Taiwan,Data Communication Business Group,telnet,root,jvbzd,-
